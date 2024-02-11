@@ -9,7 +9,7 @@ The dataset used in this project contains information about vehicle CO2 emission
 
 ## Files
 - `co2.csv`: The dataset containing information about vehicle CO2 emissions.
-- `CO2_Emission_Prediction.ipynb`: Jupyter Notebook containing the code for data analysis, exploratory data analysis (EDA), and building machine learning models using linear regression, multi-linear regression, and polynomial regression.
+- `Co2_emissions_EDA_&_ML.ipynb' Jupyter Notebook containing the code for data analysis, exploratory data analysis (EDA), and building machine learning models using linear regression, multi-linear regression, and polynomial regression.
 
 
 ## Data Analysis
